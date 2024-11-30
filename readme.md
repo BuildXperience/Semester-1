@@ -14,7 +14,7 @@ Selamat datang di repository **Semester 1** BuildXperience! Repository ini beris
 
 
 </br>
-<div align="right" style="letter-spacing: 0.9rem;">
+<div align="left" style="letter-spacing: 1rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
